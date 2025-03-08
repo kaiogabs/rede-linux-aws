@@ -1,1 +1,0 @@
-# rede-linux-aws
